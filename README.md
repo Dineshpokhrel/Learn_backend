@@ -1,2 +1,2 @@
 # Learn_backend
-🚀 Exploring Nodejs, MongoDb
+🚀 Exploring Node.js, Express, MongoDB
